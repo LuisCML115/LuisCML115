@@ -16,8 +16,8 @@
 🌍 **Intermediate English (40-50%)**  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisCML115&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisCML115&layout=compact&theme=dark&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
