@@ -25,7 +25,7 @@
 ## ⚡ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,postgres,c,java&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,MySQL,c,java&theme=dark" />
 </p>
 
 ---
