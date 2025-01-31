@@ -11,7 +11,7 @@
 📚 **Computer Systems Engineering Student**  
 🔒 **Passionate about Cybersecurity and Databases**  
 ⚛️ **Physics Enthusiast**  
-💻 **Knowledge in:**  
+ 
 
 🌍 **Intermediate English (40-50%)**  
 
@@ -54,8 +54,9 @@
 ## 🌍 Intermediate English (40-50%)
 
 <p align="center">
-  <img src="https://github-chart.vercel.app/api?percentage=50&label=English" alt="English 50%"/>
+  <img src="https://img.shields.io/badge/English-50%25-36BCF7?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English Proficiency"/>
 </p>
+
 
 ---
 
