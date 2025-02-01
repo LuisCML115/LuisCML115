@@ -67,7 +67,7 @@
 ## LANGUAGES
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['English','Remaining'],datasets:[{data:[50,50]}]},options:{plugins:{doughnutlabel:{labels:[{text:'50%',font:{size:20}}]}}}}" alt="English Proficiency"/>
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['English','Remaining'],datasets:[{data:[50,50]}]},options:{plugins:{doughnutlabel:{labels:[{text:'50%',font:{size:10}}]}}}}" alt="English Proficiency"/>
 </p>
 ---
 
