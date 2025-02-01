@@ -67,7 +67,9 @@
 ## LANGUAGES
 
 <p align="center">
-  <img src="https://progress-bar.dev/50/?title=English&width=200&color=36BCF7&type=circle" alt="English Proficiency"/>
+  <img src="https://img.shields.io/static/v1?label=English&message=50%25&color=36BCF7&style=for-the-badge" alt="English Proficiency"/>
+  <br>
+  <img src="https://chart.googleapis.com/chart?chs=150x150&cht=p&chd=t:50,50&chco=36BCF7,222222" alt="English Proficiency Pie Chart"/>
 </p>
 
 
