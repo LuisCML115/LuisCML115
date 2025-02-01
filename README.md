@@ -60,7 +60,7 @@
   <a href="https://www.codewars.com/users/LuisCML115">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   </a>
-  <a href="https://www.freecodecamp.org/fcc70d133df-31e7-496a-9dfc-c5a3b2934dfc">
+  <a href="https://www.freecodecamp.org/learn">
     <img src="https://img.shields.io/badge/FreeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="FreeCodeCamp"/>
   </a>
   <a href="https://stackoverflow.com/users/22570363/luis-carlos-meza-lopez">
