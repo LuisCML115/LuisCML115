@@ -67,9 +67,8 @@
 ## LANGUAGES
 
 <p align="center">
-  <img src="https://progress-bar.dev/50/?title=English&color=36BCF7&width=200&height=200&type=circle" alt="English Proficiency"/>
+  <img src="https://img.shields.io/badge/English-50%25-brightgreen?style=for-the-badge&logo=english&logoColor=white" alt="English Proficiency"/>
 </p>
-
 
 ---
 
