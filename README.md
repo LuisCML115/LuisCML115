@@ -66,10 +66,11 @@
 
 ## LANGUAGES
 
+
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=English&message=50%25&color=36BCF7&style=for-the-badge" alt="English Proficiency"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCML115&theme=dark" alt="GitHub Streak"/>
   <br>
-  <img src="https://chart.googleapis.com/chart?chs=150x150&cht=p&chd=t:50,50&chco=36BCF7,222222" alt="English Proficiency Pie Chart"/>
+  <img src="https://progress-bar.dev/50/?title=English&width=200&color=36BCF7&suffix=%25" alt="English Proficiency"/>
 </p>
 
 
