@@ -69,9 +69,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisCML115&theme=dark" alt="GitHub Streak"/>
-  <br>
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['English','Remaining'],datasets:[{data:[50,50],backgroundColor:['#36BCF7','#222222']}]},options:{plugins:{doughnutlabel:{labels:[{text:'50%',font:{size:20}}]}}}}" alt="English Proficiency"/>
+  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[50,50],backgroundColor:['#36BCF7','#222222']}]}&options={cutoutPercentage:70,plugins:{legend:{display:false},tooltip:{enabled:false},doughnutlabel:{labels:[{text:'English',font:{size:16,bold:true}},{text:'50%',font:{size:20}}]}}}}" alt="English Proficiency"/>
 </p>
 
 
