@@ -54,10 +54,10 @@
 ## 🔗 Find Me On:
 
 <p align="center">
-  <a href="https://www.hackthebox.com/">
-    <img src="https://app.hackthebox.com/profile/overview"/>
+  <a href="https://app.hackthebox.com/profile/overview">
+     <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green" alt="HackTheBox"/>
   </a>
-  <a href="https://www.codewars.com/">
+  <a href="https://www.codewars.com/users/LuisCML115">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
   </a>
 </p>
