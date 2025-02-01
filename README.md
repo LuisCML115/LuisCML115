@@ -67,36 +67,14 @@
 ## LANGUAGES
 
 <p align="center">
-  <canvas id="englishChart" width="150" height="150"></canvas>
+  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+    <circle cx="60" cy="60" r="54" stroke="#222222" stroke-width="10" fill="none" />
+    <circle cx="60" cy="60" r="54" stroke="#36BCF7" stroke-width="10" fill="none" stroke-dasharray="339.29" stroke-dashoffset="169.64" transform="rotate(-90 60 60)" />
+    <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20px" fill="white">English</text>
+    <text x="50%" y="65%" text-anchor="middle" dy=".3em" font-size="16px" fill="white">50%</text>
+  </svg>
 </p>
 
-<script>
-  var canvas = document.getElementById("englishChart");
-  var ctx = canvas.getContext("2d");
-  var percentage = 50; // Cambia este valor para modificar el porcentaje
-
-  function drawCircle() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    ctx.lineWidth = 10;
-    ctx.strokeStyle = "#222222";
-    ctx.beginPath();
-    ctx.arc(75, 75, 60, 0, 2 * Math.PI);
-    ctx.stroke();
-
-    ctx.strokeStyle = "#36BCF7";
-    ctx.beginPath();
-    ctx.arc(75, 75, 60, -Math.PI / 2, (-Math.PI / 2) + (2 * Math.PI * (percentage / 100)));
-    ctx.stroke();
-
-    ctx.fillStyle = "#FFFFFF";
-    ctx.font = "16px Arial";
-    ctx.textAlign = "center";
-    ctx.textBaseline = "middle";
-    ctx.fillText("English", 75, 65);
-    ctx.fillText(percentage + "%", 75, 85);
-  }
-  drawCircle();
-</script>
 
 ---
 
