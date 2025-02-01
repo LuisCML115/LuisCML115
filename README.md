@@ -67,8 +67,7 @@
 ## LANGUAGES
 
 <p align="center">
-  <img src="https://quickchart.io/chart?c={type:'doughnut',data:{datasets:[{data:[50,50],backgroundColor:['#36BCF7','#222222']}]}&options={cutoutPercentage:70,plugins:{legend:{display:false},tooltip:{enabled:false},doughnutlabel:{labels:[{text:'English',font:{size:16,bold:true}},{text:'50%',font:{size:20}}]}}}}&width=150&height=150" alt="English Proficiency"/>
+  <img src="https://img.shields.io/badge/English-50%25-brightgreen?style=for-the-badge&logo=english&logoColor=white" alt="English Proficiency"/>
 </p>
-
 ---
 
