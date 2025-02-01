@@ -20,10 +20,10 @@
   <a href="https://www.python.org" target="_blank">
     <img src="https://skillicons.dev/icons?i=python&theme=dark"/>
   </a>
-  <a href="https://html.spec.whatwg.org" target="_blank">
+  <a href="https://js.institute/" target="_blank">
     <img src="https://skillicons.dev/icons?i=html&theme=dark"/>
   </a>
-  <a href="https://www.w3.org/Style/CSS" target="_blank">
+  <a href="https://www.css.ch/en/about-css/driving-force/responsibility/institut.html" target="_blank">
     <img src="https://skillicons.dev/icons?i=css&theme=dark"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
