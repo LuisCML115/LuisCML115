@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://www.hackthebox.com/">
-    <img src="https://img.shields.io/badge/HackTheBox-111111?style=for-the-badge&logo=hackthebox&logoColor=green" alt="HackTheBox"/>
+    <img src="https://app.hackthebox.com/profile/overview"/>
   </a>
   <a href="https://www.codewars.com/">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"/>
