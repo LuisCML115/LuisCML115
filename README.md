@@ -67,12 +67,7 @@
 ## LANGUAGES
 
 <p align="center">
-  <svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
-    <circle cx="60" cy="60" r="54" stroke="#222222" stroke-width="10" fill="none" />
-    <circle cx="60" cy="60" r="54" stroke="#36BCF7" stroke-width="10" fill="none" stroke-dasharray="339.29" stroke-dashoffset="169.64" transform="rotate(-90 60 60)" />
-    <text x="50%" y="50%" text-anchor="middle" dy=".3em" font-size="20px" fill="white">English</text>
-    <text x="50%" y="65%" text-anchor="middle" dy=".3em" font-size="16px" fill="white">50%</text>
-  </svg>
+  <img src="https://progress-bar.dev/50/?title=English&color=36BCF7&width=200&height=200&type=circle" alt="English Proficiency"/>
 </p>
 
 
